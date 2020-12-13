@@ -1,39 +1,51 @@
-[
+[  
+   {
+      "month":"Aug,2019",
+      "publishNo":30.0
+   },
+   {
+      "month":"Sep,2019",
+      "publishNo":30.0
+   },
+   {
+      "month":"Oct,2019",
+      "publishNo":30.0
+   },
    {
       "month":"Nov,2019",
-      "publishNo":3.0
+      "publishNo":30.0
    },
    {
       "month":"Dec,2019",
-      "publishNo":7.0
+      "publishNo":70.0
    },
    {
       "month":"Jan,2020",
-      "publishNo":5.0
+      "publishNo":50.0
    },
    {
       "month":"Feb,2020",
-      "publishNo":5.0
+      "publishNo":50.0
    },
    {
       "month":"Mar,2020",
-      "publishNo":2.0
+      "publishNo":20.0
    },
    {
       "month":"Apr,2020",
-      "publishNo":3.0
+      "publishNo":30.0
    },
    {
       "month":"May,2020",
-      "publishNo":1.0
+      "publishNo":10.0
    },
    {
       "month":"Jun,2020",
-      "publishNo":4.0
+      "publishNo":40.0
    },
    {
       "month":"Jul,2020",
-      "publishNo":7.0
+      "publishNo":70.0
    },
    {
       "month":"Aug,2020",
@@ -41,10 +53,18 @@
    },
    {
       "month":"Sep,2020",
-      "publishNo":8.0
+      "publishNo":80.0
    },
    {
       "month":"Oct,2020",
-      "publishNo":9.0
+      "publishNo":90.0
+   },
+   {
+      "month":"Nov,2020",
+      "publishNo":80.0
+   },
+   {
+      "month":"Dec,2020",
+      "publishNo":80.0
    }
 ]
