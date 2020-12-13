@@ -1,13 +1,5 @@
 [  
    {
-      "month":"Aug,2019",
-      "publishNo":30.0
-   },
-   {
-      "month":"Sep,2019",
-      "publishNo":30.0
-   },
-   {
       "month":"Oct,2019",
       "publishNo":30.0
    },
@@ -61,10 +53,6 @@
    },
    {
       "month":"Nov,2020",
-      "publishNo":80.0
-   },
-   {
-      "month":"Dec,2020",
       "publishNo":80.0
    }
 ]
